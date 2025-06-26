@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Banini-AD/product-preview--card)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://product-preview-card-theta-murex.vercel.app/)
 
 ## My process
 
